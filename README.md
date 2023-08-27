@@ -2,4 +2,4 @@
 
 simple buzzer program
 
-###### Getting started with #arduinoprogramming-p4 🚀
+###### Getting started with #arduinoprogramming 🚀
